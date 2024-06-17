@@ -1,1 +1,1 @@
-This github is to save the linux comands may need for future.
+Here are the few basic linux commands for admin purpose:
